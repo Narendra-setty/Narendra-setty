@@ -10,16 +10,3 @@
 🏆 Projects
 🔹 Sequential Detector – FSM-based pattern recognition using Verilog & FPGA
 🔹 16-bit RISC Processor – Custom RISC CPU designed & simulated in ModelSim & Vivado
-
-🔧 Tech Stack
-
-
-
-
-
-
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160px"> </div>
-📫 Connect With Me
-🔗 LinkedIn | 🌍 GitHub | 📧 Email
