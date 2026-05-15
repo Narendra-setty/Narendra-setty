@@ -40,7 +40,7 @@ I build things at the intersection of hardware and intelligence — from low-pow
 **Tools:** ModelSim · Vivado · Quartus  
 **Embedded:** ESP32 · Raspberry Pi · Embedded C  
 **Programming:** Python · C  
-**Concepts:** CMOS Digital Design · Logical Effort · VLSI Physical Design · Post-Quantum Cryptography
+**Concepts:** CMOS Digital Design · Logical Effort · VLSI Physical Design 
 
 ---
 
