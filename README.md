@@ -44,11 +44,7 @@ I build things at the intersection of hardware and intelligence — from low-pow
 
 ---
 
-## 🌱 Interests
 
-3D Holography · Quantum Computing · Neuromorphic Chips · AI + Hardware · Secure Embedded Systems
-
----
 
 ## 📫 Let's Connect
 
