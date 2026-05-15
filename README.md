@@ -30,7 +30,6 @@ I build things at the intersection of hardware and intelligence — from low-pow
 
 - 🥇 **1st Place** — Siemens Tech for Society Hackathon (URBANFLOW project)
 - 🏅 Strong placement — **Smart India Hackathon (SIH) 2025**
-- 🏅 Top finish — **Peekuthon**
 
 ---
 
